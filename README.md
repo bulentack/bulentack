@@ -31,6 +31,25 @@ I’ve contributed to projects involving:
 ## 📊 Tech Stack
 `Terraform` • `Ansible` • `Kubernetes` • `Helm` • `Prometheus` • `Grafana` • `Kafka` • `GitLab CI/CD` • `OCI` • `GCP` • `AWS`
 
+## 🏷️ Certifications & Tools
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?logo=redhatopenshift&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FE6D4C?logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 ---
 
 ## 🚀 My Focus
