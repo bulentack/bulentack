@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/bulentack/bulentack/main/banner.png" alt="Bülent Açıkgöz - Cloud & DevOps Solution Architect" width="100%">
 </p>
 
-
 # 👋 Hi, I'm Bülent Açıkgöz
 ## 🧑‍💻 About Me
 
