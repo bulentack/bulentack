@@ -15,7 +15,7 @@ I’ve contributed to projects involving:
 - **Amadeus** — Cloud Data Fabric migration using OpenShift and Kafka  
 - **Vodafone & Deutsche Bank** — Multi-cloud DevOps and CI/CD platforms  
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bulent-acikgoz) or via email: **bulent.acikgoz@example.com**
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bulentacikgoz) or via email: **bcacikgoz@gmail.com**
 
 ---
 
