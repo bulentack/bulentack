@@ -1,11 +1,23 @@
 # 👋 Hi, I'm Bülent Açıkgöz
+## 🧑‍💻 About Me
 
-I'm a **Cloud & DevOps Solution Architect** focusing on:
-- ☁️ Multi-Cloud Infrastructure (OCI, GCP, AWS)
-- ⚙️ DevOps Automation (Terraform, Ansible, GitLab CI/CD)
-- ☸️ Kubernetes & OpenShift Platform Engineering
-- 🔄 Kafka Architect (KRaft, Confluent, Monitoring with Prometheus & Grafana)
-- 🧠 Data Platforms (Oracle, PostgreSQL, Cassandra, MongoDB)
+I’m a **Cloud & DevOps Solution Architect** with a strong background in **Kafka, Kubernetes, Terraform**, and **multi-cloud platforms (OCI, GCP, AWS)**.  
+I design and automate **scalable, fault-tolerant data and application platforms** for telecom and finance environments — combining infrastructure as code, CI/CD pipelines, observability, and high availability.
+
+💡 I’m particularly passionate about:
+- Building **Kafka architectures** (KRaft, Confluent, multi-region, cluster linking)
+- Automating infrastructure with **Terraform and Ansible**
+- Deploying **Kubernetes & OpenShift** clusters with GitOps (ArgoCD, Tekton)
+- Designing **monitoring and resilience** stacks (Prometheus, Grafana, Loki)
+
+I’ve contributed to projects involving:
+- **Oracle/Telia** — OCI + Kafka + OKE microservices for telecom billing  
+- **Amadeus** — Cloud Data Fabric migration using OpenShift and Kafka  
+- **Vodafone & Deutsche Bank** — Multi-cloud DevOps and CI/CD platforms  
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bulent-acikgoz) or via email: **bulent.acikgoz@example.com**
+
+---
 
 ## 🧰 Featured Projects
 | Project | Description | Stack |
@@ -22,7 +34,12 @@ I'm a **Cloud & DevOps Solution Architect** focusing on:
 ---
 
 ## 🚀 My Focus
-- Building resilient Kafka clusters across multi-cloud  
+- Building resilient **Kafka clusters** across multi-cloud  
 - Automating infrastructure provisioning and CI/CD pipelines  
-- Designing GitOps-based Kubernetes deployments  
-- Integrating observability with Prometheus and Grafana
+- Designing **GitOps-based Kubernetes** deployments  
+- Integrating observability with **Prometheus and Grafana**
+
+---
+
+💬 *"Automate everything, observe everything."*  
+— **Bülent Açıkgöz**
