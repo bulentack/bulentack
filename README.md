@@ -68,3 +68,31 @@ I’ve contributed to projects involving:
 — **Bülent Açıkgöz**
 ---
 📈 *Profile views and stats coming soon via GitHub Actions...*
+
+---
+---
+
+> 💡 Passionate about cloud-native automation, event-driven architectures, and resilient multi-cloud platforms.
+
+## 📈 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bulentack&show_icons=true&theme=tokyonight&hide_border=true" alt="Bülent Açıkgöz GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulentack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
+</p>
+
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bulentack&show_icons=true&theme=tokyonight&hide_border=true" alt="Bülent Açıkgöz GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulentack&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bulentack&theme=solarized-light&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bulentack&theme=tokyonight&no-frame=true&margin-w=10&column=7" alt="GitHub Profile Trophies"/>
+</p>
+
