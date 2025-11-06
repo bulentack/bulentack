@@ -66,3 +66,5 @@ I’ve contributed to projects involving:
 
 💬 *"Automate everything, observe everything."*  
 — **Bülent Açıkgöz**
+---
+📈 *Profile views and stats coming soon via GitHub Actions...*
